@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Ramiro de la Vega</h1>
-<h3 align="center">Soy un Data Analyst, estudiante de Data Science y Lic. en Administración de Empresas</h3>
+<h3 align="center">Soy un Data Analyst, estudiante de Data Science y de la Lic. en Administración de Empresas</h3>
 
 - 📝 He presentado un proyecto de [Analisis en Power Bi sobre Clientes en Empresa de Telecomunicaciones](https://github.com/ramirodelavega/Analisis-De-Clientes)
 
